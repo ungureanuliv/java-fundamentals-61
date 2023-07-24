@@ -22,5 +22,6 @@ public class Proiect1 {
              args) {
             System.out.println("Argument: " + arg);
         }
+        // Modificare 1
     }
 }
